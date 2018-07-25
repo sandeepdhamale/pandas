@@ -49,12 +49,47 @@
 
 * [07 Merging Joining Concatenating.ipynb](https://github.com/sujitdhamale/pandas/blob/master/07%20Merging%20Joining%20Concatenating.ipynb)
 
+    *	Merging Joining Concatenating
+    *	Concatenating with row (default)
+    *	Concatenating with column
+    *	use index for merging
+    *	Merging
+    *	Merging based on multiple column
+    *	Join
+
 
 * [08 Operations.ipynb](https://github.com/sujitdhamale/pandas/blob/master/08%20Operations.ipynb)
 
+    *	Operations
+    *	To identify uniq value in column
+    *	number of uniq
+    *	Apply functions
+    *	Applying python function
+    *	write function in one line
+    *	Remove column
+    *	Column and row name
+    *	Sort
+    *	isnull
+    *	pivot table
 
 * [09 Data Input and Output.ipynb](https://github.com/sujitdhamale/pandas/blob/master/09%20Data%20Input%20and%20Output.ipynb)
 
+    *	Data Input and Output
+    *	process data using below
+    *	CSV
+    *	Excel
+    *	HTML
+    *	SQL
+    *	To write in to file
+    *	To remove index
+    *	Read from Excel
+    *	TO save two sheet in one Excel
+    *	Pandas Excel writer using XlsxWriter as the engine
+    *	Html input
+    *	Working with SQL
+    *	To use pandas Datafram in SQL querry
+    *	Create string for oracle SQL query from Dataframe
+    
 
 * [Ecommerce Purchases Exercise .ipynb](https://github.com/sujitdhamale/pandas/blob/master/Ecommerce%20Purchases%20Exercise%20.ipynb)
 
