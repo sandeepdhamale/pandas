@@ -16,10 +16,19 @@
 
 * [02 Dataframes Part 1.ipynb](https://github.com/sujitdhamale/pandas/blob/master/02%20Dataframes%20Part%201.ipynb)	
 
-
+    *	Dataframe basic
+    *	create datafram
+    *	diffrant way to read data from Dataframes 
+    *	reshape
+    *	add and remove column in Dataframes
+    
 * [03 Dataframes Part 2.ipynb](https://github.com/sujitdhamale/pandas/blob/master/03%20Dataframes%20Part%202.ipynb)
 
-
+    *	Conditional Selection
+    *	Data comparison
+    *	Multiple conditions
+    *	Index(reset and Set index) 
+    
 * [04 Dataframes Part 3.ipynb](https://github.com/sujitdhamale/pandas/blob/master/04%20Dataframes%20Part%203.ipynb)
 
 
