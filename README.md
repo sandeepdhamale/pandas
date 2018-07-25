@@ -31,12 +31,21 @@
     
 * [04 Dataframes Part 3.ipynb](https://github.com/sujitdhamale/pandas/blob/master/04%20Dataframes%20Part%203.ipynb)
 
+    *	MultiIndex
 
 * [05 Missing Data.ipynb](https://github.com/sujitdhamale/pandas/blob/master/05%20Missing%20Data.ipynb)
 
+    *	Missing data
+    *	Drop row having NULL or NAN value
+    *	Drop column having NULL or NAN value
+    *	Fill NA
 
 * [06 Groupby.ipynb](https://github.com/sujitdhamale/pandas/blob/master/06%20Groupby.ipynb)
 
+    *	Groupby
+    *	group by with Python function mean(),sum(),std(),count()
+    *	Describe all
+    *	transpose
 
 * [07 Merging Joining Concatenating.ipynb](https://github.com/sujitdhamale/pandas/blob/master/07%20Merging%20Joining%20Concatenating.ipynb)
 
