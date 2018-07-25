@@ -93,6 +93,9 @@
 
 * [Ecommerce Purchases Exercise .ipynb](https://github.com/sujitdhamale/pandas/blob/master/Ecommerce%20Purchases%20Exercise%20.ipynb)
 
+   ###### This is exercise based on data present in "Ecommerce Purchases" csv file 
 
 * [SF Salaries Exercise.ipynb](https://github.com/sujitdhamale/pandas/blob/master/SF%20Salaries%20Exercise.ipynb)
+   
+   ###### This is exercise based on data present in "Salaries.csv"  file 
 
