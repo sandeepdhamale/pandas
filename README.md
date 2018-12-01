@@ -2,6 +2,12 @@
 # Panda
 ### pandas is an open source Python library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language.
 
+
+![pandas](https://user-images.githubusercontent.com/1712113/49327325-43fee080-f586-11e8-91ce-a8437ee25931.png)
+
+
+
+
 #### Below tutorials are from Udemy cource _"Python for Data Science and Machine Learning Bootcamp"_
 
 
