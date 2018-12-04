@@ -5,11 +5,9 @@
 
 ![pandas](https://user-images.githubusercontent.com/1712113/49327325-43fee080-f586-11e8-91ce-a8437ee25931.png)
 
+##### Below tutorials are from Udemy cource _"Python for Data Science and Machine Learning Bootcamp"_
 
-
-
-#### Below tutorials are from Udemy cource _"Python for Data Science and Machine Learning Bootcamp"_
-
+# Introduction to Pandas
 
 *  pandas is an open source library built on top of NumPy
 *  pandas allow for fast analysis and data cleaning and preparation
