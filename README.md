@@ -17,7 +17,7 @@
 *  pandas also has built in visualization features
 *  pandas can work with data from a wide variety of sources
 
-
+## As Part of Pandas execerve we will study below topics
 
 * [01 Pandas Series.ipynb](https://github.com/sujitdhamale/pandas/blob/master/01%20Pandas%20Series.ipynb)	
 
